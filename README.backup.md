@@ -1825,9 +1825,9 @@
 
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) — ZeroNet 去中心化网站（BitTorrent+Bitcoin 加密，无审查/无宕机/零托管成本）。
 
-## Dapper FluentMap(已归档)
+## Dapper FluentMap（活跃维护）
 
-- [henkmollema/Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) — Dapper FluentMap POCO 属性到数据库列的流式映射（已归档）。
+- [rodri-oliveira-dev/Dapper-FluentMap](https://github.com/rodri-oliveira-dev/Dapper-FluentMap) — Dapper FluentMap 提供 Dapper 的 POCO 属性与数据库列之间的流式映射（原仓库已转移至新维护者，项目目前持续维护）。
 
 ## Windows内存清理
 
